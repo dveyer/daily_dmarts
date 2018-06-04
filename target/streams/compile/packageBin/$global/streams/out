@@ -1,0 +1,95 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\daily_dmarts_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Crm_inter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Crm_inter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StgInit$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\StgInit$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Fmc_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Fmc_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$anonfun$getListOfFiles$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$anonfun$getListOfFiles$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\InitXMLData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\util\InitXMLData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\SparkBase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\SparkBase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Subs_profile_ki.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Subs_profile_ki.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vbi[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\vbi[0m
+[0m[[0m[0mdebug[0m] [0m[0m	smms\Agg_quar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\smms\Agg_quar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Prior_region.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Prior_region.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StgInit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\StgInit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Service.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Service.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$anonfun$getListOfFiles$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$anonfun$getListOfFiles$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\InitXMLData$$anonfun$initGeneralAndFsData$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\util\InitXMLData$$anonfun$initGeneralAndFsData$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cpa[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\cpa[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Fttb_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Fttb_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Mnp_port.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Mnp_port.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	smms\Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\smms\Runner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vbi\Vbi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\vbi\Vbi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Rech_source.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Rech_source.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	smms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\smms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Lac_cell_site_actual.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Lac_cell_site_actual.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	smms\Agg_month.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\smms\Agg_month.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cpa\CPA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\cpa\CPA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beemap[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\beemap[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StgInit$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\StgInit$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StgInit$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\StgInit$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Stg_subs_lc_hh.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Stg_subs_lc_hh.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\InitXMLData$$anonfun$initSparkMap$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\util\InitXMLData$$anonfun$initSparkMap$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StgInit$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\StgInit$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	smms\Agg_week.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\smms\Agg_week.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia\Tv_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia\Tv_sales.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$anonfun$strTail$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$anonfun$strTail$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	medallia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\medallia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bls\Subs_pp_balances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\bls\Subs_pp_balances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utl\Tools$$anonfun$initNotification$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\utl\Tools$$anonfun$initNotification$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	beemap\Beemap1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\beemap\Beemap1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util\InitXMLData$$anonfun$initGeneralAndFsData$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\target\scala-2.11\classes\util\InitXMLData$$anonfun$initGeneralAndFsData$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

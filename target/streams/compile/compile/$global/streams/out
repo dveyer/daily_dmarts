@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\src\main\scala\bls\Subs_pp_balances.scala:29:16: ')' expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m          tools.patternToDate(tools.addDays(P_DATE,-2),"ddMMyyyy")+".parq").createOrReplaceTempView("comverse")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DNurtailakov\Documents\VEON projects\daily_dmarts\src\main\scala\bls\Subs_pp_balances.scala:29:75: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m          tools.patternToDate(tools.addDays(P_DATE,-2),"ddMMyyyy")+".parq").createOrReplaceTempView("comverse")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

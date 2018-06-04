@@ -1,0 +1,38 @@
+Project for daily stagings calculation
+1) BLS data marts calculate every day
+2) Medallia scripts run every day
+--------------------------------
+XML File content
+--------------------------------
+<?xml version="1.0" encoding="UTF-8"?>
+<init>
+<general>
+<casename>SMMS</casename>
+<master>spark://kz-dmpignt37.kar-tel.local:7077</master>
+<sfolder>/dmp/daily_stg/smms</sfolder>
+<dsfolder>/mnt/gluster-storage/etl/download</dsfolder>
+<nfolder>/dmp/notification/smms/log</nfolder>
+<folder_pattern>MM-yyyy</folder_pattern>
+<file_pattern>ddMMyyyy</file_pattern>
+<loglevel>ERROR</loglevel>
+</general>
+<fs>
+<fs.igfs.impl>org.apache.ignite.hadoop.fs.v1.IgniteHadoopFileSystem</fs.igfs.impl>
+<fs.hdfs.impl>org.apache.hadoop.hdfs.DistributedFileSystem</fs.hdfs.impl>
+<fs.file.impl>org.apache.hadoop.fs.LocalFileSystem</fs.file.impl>
+<fs.defaultFS>hdfs://kz-dmphdpname01.kar-tel.local:8020</fs.defaultFS>
+</fs>
+<hive><db>daily_stg</db></hive>
+<spark>
+<!-- Cluster -->
+<spark.io.compression.codec>snappy</spark.io.compression.codec>
+<spark.serializer>org.apache.spark.serializer.KryoSerializer</spark.serializer>
+<spark.executor.memory>200g</spark.executor.memory>
+<spark.executor.cores>32</spark.executor.cores>
+<spark.cores.max>512</spark.cores.max>
+<spark.scheduler.mode>FAIR</spark.scheduler.mode>
+<spark.executor.extraJavaOptions>-XX:+UseG1GC</spark.executor.extraJavaOptions>
+</spark>
+<stgmap><stg><id status="1" period="1" pdate="sysdate" scale="daily" 
+level="0">bls.Class</id></stg></stgmap>
+</init>
